@@ -8,6 +8,3 @@ func init() {
 func PrintHello() {
 	fmt.Println("hello")
 }
-func main() {
-	PrintHello()
-}
